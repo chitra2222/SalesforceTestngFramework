@@ -1,0 +1,529 @@
+20230218 16:46:32 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase34
+20230218 16:46:36 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 16:46:36 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 16:46:38 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 16:46:38 INFO  [main] TestCases.RandomScenarios RandomScenarios.java16 - Inside Test case34
+20230218 16:46:44 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Home Tab is clicked
+20230218 16:46:45 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Lightning alert is clicked
+20230218 16:46:50 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - First and last name link is clicked
+20230218 16:46:54 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java128 - TestCase passed
+20230218 16:46:54 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase34
+20230218 16:46:56 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase35
+20230218 16:47:00 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 16:47:00 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 16:47:02 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 16:47:02 INFO  [main] TestCases.RandomScenarios RandomScenarios.java36 - Inside Test case35
+20230218 16:47:08 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Home Tab is clicked
+20230218 16:47:08 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Lightning alert is clicked
+20230218 16:47:13 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - First and last name link is clicked
+20230218 16:47:18 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Edit Profile Button is clicked
+20230218 16:47:22 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - about tab is clicked
+20230218 16:47:22 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Last nameis entered
+20230218 16:47:28 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Save all is clicked
+20230218 16:47:32 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java113 - Test case passed
+20230218 16:47:36 ERROR [main] TestCases.BaseTestMethods1 BaseTestMethods1.java116 - Test case failed
+20230218 16:47:36 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase35
+20230218 16:47:38 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase36
+20230218 16:47:42 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 16:47:42 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 16:47:44 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 16:47:44 INFO  [main] TestCases.RandomScenarios RandomScenarios.java76 - Inside Test case36
+20230218 16:47:48 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 16:47:48 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 16:47:50 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 16:47:55 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - All Tabs is clicked
+20230218 16:48:00 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Customize tabs is clicked
+20230218 16:48:04 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Libraries is clicked
+20230218 16:48:04 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Remove button is clicked
+20230218 16:48:05 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Save Button is clicked
+20230218 16:48:09 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Profile is clicked
+20230218 16:48:10 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Logout is clicked
+20230218 16:48:14 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 16:48:14 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 16:48:14 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 16:48:18 INFO  [main] TestCases.RandomScenarios RandomScenarios.java127 - Test case passed
+20230218 16:48:18 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase36
+20230218 16:48:21 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase37
+20230218 16:48:25 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 16:48:25 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 16:48:26 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 16:48:26 INFO  [main] TestCases.RandomScenarios RandomScenarios.java134 - Inside Test case37
+20230218 16:48:33 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Home Tab is clicked
+20230218 16:48:33 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Lightning alert is clicked
+20230218 16:48:37 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase37
+20230218 16:48:39 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase38
+20230218 16:48:43 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 16:48:43 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 16:48:45 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 16:48:45 INFO  [main] TestCases.RandomScenarios RandomScenarios.java180 - Inside Test case38
+20230218 16:48:54 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Home Tab is clicked
+20230218 16:48:55 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Lightning alert is clicked
+20230218 16:48:59 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase38
+20230218 16:59:09 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java45 - Test Script startedTestCase1
+20230218 16:59:14 INFO  [main] TestCases.LoginModule LoginModule.java19 - Inside Test case1
+20230218 16:59:14 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java72 - User i.d is entered
+20230218 16:59:14 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java72 - User i.d is entered
+20230218 16:59:14 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java81 - Login Button is clicked
+20230218 16:59:18 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java96 - Test case passed
+20230218 16:59:18 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java55 - Test Script endedTestCase1
+20230218 16:59:20 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java45 - Test Script startedTestCase2
+20230218 16:59:24 INFO  [main] TestCases.LoginModule LoginModule.java40 - Inside Test case2
+20230218 16:59:24 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java72 - User i.d is entered
+20230218 16:59:24 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java72 - Password is entered
+20230218 16:59:26 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java81 - Login Button is clicked
+20230218 16:59:32 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java96 - Test case passed
+20230218 16:59:32 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java55 - Test Script endedTestCase2
+20230218 16:59:34 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java45 - Test Script startedTestCase3
+20230218 16:59:38 INFO  [main] TestCases.LoginModule LoginModule.java66 - Inside Test case3
+20230218 16:59:38 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java72 - User i.d is entered
+20230218 16:59:38 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java72 - Password is entered
+20230218 16:59:38 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java81 - Remember is clicked
+20230218 16:59:44 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java81 - Login is clicked
+20230218 16:59:50 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java81 - Profile is clicked
+20230218 16:59:50 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java81 - Logout is clicked
+20230218 16:59:54 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java96 - Test case passed
+20230218 16:59:54 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java55 - Test Script endedTestCase3
+20230218 16:59:57 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java45 - Test Script startedTestCase4
+20230218 17:00:00 INFO  [main] TestCases.LoginModule LoginModule.java98 - Inside Test case4
+20230218 17:00:04 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java96 - Test case passed
+20230218 17:00:04 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java55 - Test Script endedTestCase4
+20230218 17:00:06 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java45 - Test Script startedTestCase5
+20230218 17:00:09 INFO  [main] TestCases.LoginModule LoginModule.java116 - Inside Test case5
+20230218 17:00:09 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java72 - User i.d is entered
+20230218 17:00:09 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java72 - Password is entered
+20230218 17:00:09 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java81 - Login Button is clicked
+20230218 17:00:13 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java96 - Test case passed
+20230218 17:00:18 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java55 - Test Script endedTestCase5
+20230218 17:03:56 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java45 - Test Script startedTestCase1
+20230218 17:04:00 INFO  [main] TestCases.LoginModule LoginModule.java19 - Inside Test case1
+20230218 17:04:00 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java72 - User i.d is entered
+20230218 17:04:00 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java72 - User i.d is entered
+20230218 17:04:01 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java81 - Login Button is clicked
+20230218 17:04:05 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java96 - Test case passed
+20230218 17:04:05 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java55 - Test Script endedTestCase1
+20230218 17:04:07 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java45 - Test Script startedTestCase2
+20230218 17:04:10 INFO  [main] TestCases.LoginModule LoginModule.java40 - Inside Test case2
+20230218 17:04:11 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java72 - User i.d is entered
+20230218 17:04:11 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java72 - Password is entered
+20230218 17:04:13 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java81 - Login Button is clicked
+20230218 17:04:19 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java96 - Test case passed
+20230218 17:04:19 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java55 - Test Script endedTestCase2
+20230218 17:04:21 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java45 - Test Script startedTestCase3
+20230218 17:04:25 INFO  [main] TestCases.LoginModule LoginModule.java66 - Inside Test case3
+20230218 17:04:25 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java72 - User i.d is entered
+20230218 17:04:25 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java72 - Password is entered
+20230218 17:04:25 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java81 - Remember is clicked
+20230218 17:04:31 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java81 - Login is clicked
+20230218 17:04:37 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java81 - Profile is clicked
+20230218 17:04:38 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java81 - Logout is clicked
+20230218 17:04:42 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java96 - Test case passed
+20230218 17:04:42 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java55 - Test Script endedTestCase3
+20230218 17:04:44 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java45 - Test Script startedTestCase4
+20230218 17:04:48 INFO  [main] TestCases.LoginModule LoginModule.java98 - Inside Test case4
+20230218 17:04:52 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java96 - Test case passed
+20230218 17:04:52 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java55 - Test Script endedTestCase4
+20230218 17:04:54 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java45 - Test Script startedTestCase5
+20230218 17:04:57 INFO  [main] TestCases.LoginModule LoginModule.java116 - Inside Test case5
+20230218 17:04:57 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java72 - User i.d is entered
+20230218 17:04:57 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java72 - Password is entered
+20230218 17:04:57 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java81 - Login Button is clicked
+20230218 17:05:01 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java96 - Test case passed
+20230218 17:05:05 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java55 - Test Script endedTestCase5
+20230218 17:05:07 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase6
+20230218 17:05:11 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:05:11 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:05:13 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:05:13 INFO  [main] TestCases.UserMenu UserMenu.java23 - Inside Test case6
+20230218 17:05:17 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Profile drop down is clicked
+20230218 17:05:21 INFO  [main] TestCases.UserMenu UserMenu.java46 - TestCase Passed
+20230218 17:05:21 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase6
+20230218 17:05:23 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase7
+20230218 17:05:27 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:05:27 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:05:29 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:05:29 INFO  [main] TestCases.UserMenu UserMenu.java56 - Inside Test case7
+20230218 17:05:35 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Profile drop down is clicked
+20230218 17:05:43 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - My Profile link is clicked
+20230218 17:05:47 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Edit Profile is clicked
+20230218 17:05:51 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - about tab is clicked
+20230218 17:05:52 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Last nameis entered
+20230218 17:05:57 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Save Button is clicked
+20230218 17:06:01 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Post Tab is clicked
+20230218 17:06:10 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Post Text is clicked
+20230218 17:06:10 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Post Textis entered
+20230218 17:06:14 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Post Link Tab is clicked
+20230218 17:06:18 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - File Tab is clicked
+20230218 17:06:22 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Choose Tab is clicked
+20230218 17:06:26 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Choose fileis entered
+20230218 17:06:31 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - save File is clicked
+20230218 17:06:35 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Add Photo is clicked
+20230218 17:06:46 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Save Photo is clicked
+20230218 17:06:46 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase7
+20230218 17:06:49 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase8
+20230218 17:06:52 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:06:52 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:06:54 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:06:54 INFO  [main] TestCases.UserMenu UserMenu.java142 - Inside Test case8
+20230218 17:06:59 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Profile drop down is clicked
+20230218 17:07:04 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - My Setting is clicked
+20230218 17:07:04 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Personal is clicked
+20230218 17:07:04 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - login History is clicked
+20230218 17:07:10 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - login Download is clicked
+20230218 17:07:10 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Display is clicked
+20230218 17:07:14 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - customize Tabs is clicked
+20230218 17:07:24 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Add Button is clicked
+20230218 17:07:28 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Email button is clicked
+20230218 17:07:28 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - My email is clicked
+20230218 17:07:32 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Name Fieldis entered
+20230218 17:07:32 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Address fieldis entered
+20230218 17:07:33 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - bcc field is clicked
+20230218 17:07:37 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Save button is clicked
+20230218 17:07:41 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Calendar is clicked
+20230218 17:07:42 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Activity button is clicked
+20230218 17:07:46 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Test Remain is clicked
+20230218 17:07:50 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase8
+20230218 17:07:50 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase9
+20230218 17:07:54 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:07:54 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:07:56 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:07:56 INFO  [main] TestCases.UserMenu UserMenu.java208 - Inside Test case9
+20230218 17:08:01 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Profile drop down is clicked
+20230218 17:08:05 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Developer console is clicked
+20230218 17:08:11 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase9
+20230218 17:08:11 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase11
+20230218 17:08:16 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:08:16 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:08:17 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:08:17 INFO  [main] TestCases.Account Account.java20 - Inside Test case11
+20230218 17:08:22 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Accounts Tab is clicked
+20230218 17:08:22 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Lightning alert is clicked
+20230218 17:08:27 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - New Account is clicked
+20230218 17:08:31 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Account nameis entered
+20230218 17:08:38 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Save Button is clicked
+20230218 17:08:42 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java128 - TestCase passed
+20230218 17:08:42 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase11
+20230218 17:08:44 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase12
+20230218 17:08:48 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:08:48 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:08:49 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:08:49 INFO  [main] TestCases.Account Account.java50 - Inside Test case12
+20230218 17:08:54 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Accounts Tab is clicked
+20230218 17:08:55 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Lightning alert is clicked
+20230218 17:09:00 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - New View is clicked
+20230218 17:09:00 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - View Nameis entered
+20230218 17:09:00 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Unique viewis entered
+20230218 17:09:00 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Save button is clicked
+20230218 17:09:05 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase12
+20230218 17:09:08 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase13
+20230218 17:09:12 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:09:12 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:09:13 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:09:13 INFO  [main] TestCases.Account Account.java74 - Inside Test case13
+20230218 17:09:18 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Accounts Tab is clicked
+20230218 17:09:18 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Lightning alert is clicked
+20230218 17:09:28 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Edit Button is clicked
+20230218 17:09:32 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Edit Nameis entered
+20230218 17:09:36 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - valueis entered
+20230218 17:09:37 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Save Button is clicked
+20230218 17:09:41 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase13
+20230218 17:09:43 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase14
+20230218 17:09:47 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:09:47 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:09:49 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:09:49 INFO  [main] TestCases.Account Account.java109 - Inside Test case14
+20230218 17:09:54 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Accounts Tab is clicked
+20230218 17:09:54 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Lightning alert is clicked
+20230218 17:10:00 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Merge Link is clicked
+20230218 17:10:04 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Account Textis entered
+20230218 17:10:05 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Find accounts is clicked
+20230218 17:10:09 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Click Button is clicked
+20230218 17:10:09 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Click Button is clicked
+20230218 17:10:14 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Next Button is clicked
+20230218 17:10:18 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Merge Button is clicked
+20230218 17:10:22 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase14
+20230218 17:10:24 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase15
+20230218 17:10:28 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:10:28 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:10:29 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:10:29 INFO  [main] TestCases.Account Account.java149 - Inside Test case15
+20230218 17:10:34 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Accounts Tab is clicked
+20230218 17:10:34 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Lightning alert is clicked
+20230218 17:10:40 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Report Link is clicked
+20230218 17:10:44 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - From is clicked
+20230218 17:10:49 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - today is clicked
+20230218 17:10:53 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - to is clicked
+20230218 17:10:59 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Today is clicked
+20230218 17:10:59 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Save Button is clicked
+20230218 17:11:03 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Report Nameis entered
+20230218 17:11:04 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Report unique nameis entered
+20230218 17:11:09 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Save and Run is clicked
+20230218 17:11:13 ERROR [main] TestCases.BaseTestMethods1 BaseTestMethods1.java116 - Test case failed
+20230218 17:11:13 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase15
+20230218 17:11:15 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase21
+20230218 17:11:19 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:11:19 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:11:21 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:11:21 INFO  [main] TestCases.Leads Leads.java14 - Inside Test case21
+20230218 17:11:28 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Leads tab  is clicked
+20230218 17:11:28 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Lightning alert close is clicked
+20230218 17:11:32 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java128 - TestCase passed
+20230218 17:11:33 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase21
+20230218 17:11:35 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase22
+20230218 17:11:41 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:11:41 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:11:43 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:11:43 INFO  [main] TestCases.Leads Leads.java29 - Inside Test case22
+20230218 17:11:48 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Leads tab  is clicked
+20230218 17:11:48 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Lightning alert close is clicked
+20230218 17:11:52 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Leads Drop Down is clicked
+20230218 17:11:56 INFO  [main] TestCases.Leads Leads.java52 - Test case Passed
+20230218 17:11:57 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase22
+20230218 17:11:59 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase23
+20230218 17:12:03 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:12:03 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:12:05 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:12:05 INFO  [main] TestCases.Leads Leads.java62 - Inside Test case23
+20230218 17:12:09 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:12:09 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:12:11 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:12:17 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Leads tab  is clicked
+20230218 17:12:17 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Lightning alert close is clicked
+20230218 17:12:27 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase23
+20230218 17:12:29 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase24
+20230218 17:12:33 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:12:33 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:12:34 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:12:34 INFO  [main] TestCases.Leads Leads.java119 - Inside Test case24
+20230218 17:12:41 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Leads tab  is clicked
+20230218 17:12:41 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Lightning alert close is clicked
+20230218 17:12:51 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase24
+20230218 17:12:53 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase25
+20230218 17:12:57 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:12:57 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:12:58 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:12:58 INFO  [main] TestCases.Leads Leads.java141 - Inside Test case25
+20230218 17:13:03 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Leads tab  is clicked
+20230218 17:13:03 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Lightning alert close is clicked
+20230218 17:13:08 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - New Button is clicked
+20230218 17:13:12 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Last nameis entered
+20230218 17:13:12 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Company nameis entered
+20230218 17:13:18 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Save Button is clicked
+20230218 17:13:22 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java128 - TestCase passed
+20230218 17:13:22 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase25
+20230218 17:13:24 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase16
+20230218 17:13:28 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:13:28 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:13:30 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:13:30 INFO  [main] TestCases.Oppurtunity Oppurtunity.java17 - Inside Test case16
+20230218 17:13:35 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Oppurtunity tab is clicked
+20230218 17:13:35 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - lightningalert close button is clicked
+20230218 17:13:39 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - opt Dropdown is clicked
+20230218 17:13:43 INFO  [main] TestCases.Oppurtunity Oppurtunity.java54 - Test case passed
+20230218 17:13:43 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase16
+20230218 17:14:01 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase17
+20230218 17:14:05 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:14:05 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:14:07 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:14:07 INFO  [main] TestCases.Oppurtunity Oppurtunity.java63 - Inside Test case17
+20230218 17:14:12 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Oppurtunity tab is clicked
+20230218 17:14:13 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - lightningalert close button is clicked
+20230218 17:14:17 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - create new dropdown is clicked
+20230218 17:14:18 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - create new oppurtunity is clicked
+20230218 17:14:22 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - oppurtunity nameis entered
+20230218 17:14:22 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Search Account is clicked
+20230218 17:14:30 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Account name is clicked
+20230218 17:14:34 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Close Date is clicked
+20230218 17:14:35 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Probabilityis entered
+20230218 17:14:41 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Save Button is clicked
+20230218 17:14:45 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java128 - TestCase passed
+20230218 17:14:45 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase17
+20230218 17:14:47 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase18
+20230218 17:14:51 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:14:51 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:14:53 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:14:53 INFO  [main] TestCases.Oppurtunity Oppurtunity.java124 - Inside Test case18
+20230218 17:14:58 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Oppurtunity tab is clicked
+20230218 17:14:59 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - lightningalert close button is clicked
+20230218 17:15:03 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Oppurtunity pipeLine is clicked
+20230218 17:15:07 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java128 - TestCase passed
+20230218 17:15:07 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase18
+20230218 17:15:10 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase19
+20230218 17:15:13 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:15:13 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:15:15 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:15:15 INFO  [main] TestCases.Oppurtunity Oppurtunity.java145 - Inside Test case19
+20230218 17:15:22 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Oppurtunity tab is clicked
+20230218 17:15:23 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - lightningalert close button is clicked
+20230218 17:15:27 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Stuck oppurtunities link is clicked
+20230218 17:15:31 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java128 - TestCase passed
+20230218 17:15:31 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase19
+20230218 17:15:34 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase20
+20230218 17:15:37 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:15:37 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:15:39 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:15:39 INFO  [main] TestCases.Oppurtunity Oppurtunity.java164 - Inside Test case20
+20230218 17:15:45 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Oppurtunity tab is clicked
+20230218 17:15:45 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - lightningalert close button is clicked
+20230218 17:15:54 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Run Report Button is clicked
+20230218 17:15:58 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java128 - TestCase passed
+20230218 17:15:58 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase20
+20230218 17:16:00 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase26
+20230218 17:16:04 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:16:04 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:16:06 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:16:06 INFO  [main] TestCases.Contacts Contacts.java17 - Inside Test case26
+20230218 17:16:12 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Contacts tab is clicked
+20230218 17:16:12 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Lightning alert is clicked
+20230218 17:16:16 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - New Button is clicked
+20230218 17:16:20 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Last name fieldis entered
+20230218 17:16:21 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Accountname button is clicked
+20230218 17:16:25 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Account name is clicked
+20230218 17:16:33 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Save button is clicked
+20230218 17:16:33 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java128 - TestCase passed
+20230218 17:16:33 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase26
+20230218 17:16:36 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase27
+20230218 17:16:39 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:16:39 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:16:41 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:16:41 INFO  [main] TestCases.Contacts Contacts.java58 - Inside Test case27
+20230218 17:16:47 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Contacts tab is clicked
+20230218 17:16:47 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Lightning alert is clicked
+20230218 17:16:51 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Create new view is clicked
+20230218 17:16:55 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - View nameis entered
+20230218 17:16:55 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Unique View nameis entered
+20230218 17:16:56 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Save Button is clicked
+20230218 17:17:00 ERROR [main] TestCases.BaseTestMethods1 BaseTestMethods1.java132 - Test case failed
+20230218 17:17:00 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase27
+20230218 17:17:02 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase28
+20230218 17:17:06 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:17:06 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:17:07 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:17:07 INFO  [main] TestCases.Contacts Contacts.java86 - Inside Test case28
+20230218 17:17:13 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Contacts tab is clicked
+20230218 17:17:13 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Lightning alert is clicked
+20230218 17:17:21 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java113 - Test case passed
+20230218 17:17:21 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase28
+20230218 17:17:23 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase29
+20230218 17:17:26 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:17:27 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:17:28 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:17:28 INFO  [main] TestCases.Contacts Contacts.java109 - Inside Test case29
+20230218 17:17:34 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:17:34 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:17:35 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:17:39 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase29
+20230218 17:17:41 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase30
+20230218 17:17:44 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:17:45 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:17:46 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:17:46 INFO  [main] TestCases.Contacts Contacts.java145 - Inside Test case30
+20230218 17:17:51 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Contacts tab is clicked
+20230218 17:17:52 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Lightning alert is clicked
+20230218 17:17:57 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Cantact name is clicked
+20230218 17:18:01 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java128 - TestCase passed
+20230218 17:18:01 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase30
+20230218 17:18:04 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase31
+20230218 17:18:07 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:18:07 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:18:09 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:18:09 INFO  [main] TestCases.Contacts Contacts.java165 - Inside Test case31
+20230218 17:18:14 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Contacts tab is clicked
+20230218 17:18:14 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Lightning alert is clicked
+20230218 17:18:21 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Create new view is clicked
+20230218 17:18:25 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Unique View nameis entered
+20230218 17:18:26 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Save Button is clicked
+20230218 17:18:30 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java113 - Test case passed
+20230218 17:18:30 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase31
+20230218 17:18:32 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase32
+20230218 17:18:37 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:18:37 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:18:38 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:18:38 INFO  [main] TestCases.Contacts Contacts.java190 - Inside Test case32
+20230218 17:18:46 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Contacts tab is clicked
+20230218 17:18:46 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Lightning alert is clicked
+20230218 17:18:50 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Create new view is clicked
+20230218 17:18:54 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - View nameis entered
+20230218 17:18:55 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Unique View nameis entered
+20230218 17:18:59 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Cancel Button is clicked
+20230218 17:19:03 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java128 - TestCase passed
+20230218 17:19:03 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase32
+20230218 17:19:05 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase33
+20230218 17:19:09 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:19:09 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:19:11 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:19:11 INFO  [main] TestCases.Contacts Contacts.java217 - Inside Test case33
+20230218 17:19:17 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Contacts tab is clicked
+20230218 17:19:17 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Lightning alert is clicked
+20230218 17:19:22 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - New Button is clicked
+20230218 17:19:26 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Last name fieldis entered
+20230218 17:19:26 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Accountname button is clicked
+20230218 17:19:30 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Account name is clicked
+20230218 17:19:35 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Save and new is clicked
+20230218 17:19:39 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java128 - TestCase passed
+20230218 17:19:39 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase33
+20230218 17:19:41 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase34
+20230218 17:19:45 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:19:45 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:19:49 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:19:49 INFO  [main] TestCases.RandomScenarios RandomScenarios.java16 - Inside Test case34
+20230218 17:19:55 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Home Tab is clicked
+20230218 17:19:56 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Lightning alert is clicked
+20230218 17:20:03 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - First and last name link is clicked
+20230218 17:20:07 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java128 - TestCase passed
+20230218 17:20:07 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase34
+20230218 17:20:10 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase35
+20230218 17:20:13 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:20:13 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:20:15 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:20:15 INFO  [main] TestCases.RandomScenarios RandomScenarios.java36 - Inside Test case35
+20230218 17:20:23 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Home Tab is clicked
+20230218 17:20:24 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Lightning alert is clicked
+20230218 17:20:31 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - First and last name link is clicked
+20230218 17:20:35 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Edit Profile Button is clicked
+20230218 17:20:39 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - about tab is clicked
+20230218 17:20:39 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Last nameis entered
+20230218 17:20:45 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Save all is clicked
+20230218 17:20:49 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java113 - Test case passed
+20230218 17:20:53 ERROR [main] TestCases.BaseTestMethods1 BaseTestMethods1.java116 - Test case failed
+20230218 17:20:53 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase35
+20230218 17:20:55 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase36
+20230218 17:20:59 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:20:59 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:21:02 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:21:02 INFO  [main] TestCases.RandomScenarios RandomScenarios.java76 - Inside Test case36
+20230218 17:21:07 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:21:07 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:21:08 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:21:14 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - All Tabs is clicked
+20230218 17:21:19 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Customize tabs is clicked
+20230218 17:21:23 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase36
+20230218 17:21:25 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase37
+20230218 17:21:29 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:21:29 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:21:31 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:21:31 INFO  [main] TestCases.RandomScenarios RandomScenarios.java134 - Inside Test case37
+20230218 17:21:37 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Home Tab is clicked
+20230218 17:21:37 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Lightning alert is clicked
+20230218 17:21:41 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase37
+20230218 17:21:44 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java44 - Test Script started TestCase38
+20230218 17:21:47 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - User i.dis entered
+20230218 17:21:48 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java81 - Passwordis entered
+20230218 17:21:49 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Login is clicked
+20230218 17:21:49 INFO  [main] TestCases.RandomScenarios RandomScenarios.java180 - Inside Test case38
+20230218 17:21:57 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Home Tab is clicked
+20230218 17:21:57 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java93 - Lightning alert is clicked
+20230218 17:22:01 INFO  [main] TestCases.BaseTestMethods1 BaseTestMethods1.java62 - Test Script ended TestCase38
+20230219 15:26:20 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java45 - Test Script startedTestCase5
+20230219 15:26:27 INFO  [main] TestCases.LoginModule LoginModule.java116 - Inside Test case5
+20230219 15:26:27 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java72 - User i.d is entered
+20230219 15:26:27 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java72 - Password is entered
+20230219 15:26:28 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java81 - Login Button is clicked
+20230219 15:26:32 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java96 - Test case passed
+20230219 15:26:36 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java55 - Test Script endedTestCase5
+20230219 16:29:30 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java45 - Test Script startedTestCase5
+20230219 16:29:36 INFO  [main] TestCases.LoginModule LoginModule.java116 - Inside Test case5
+20230219 16:29:37 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java72 - User i.d is entered
+20230219 16:29:37 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java72 - Password is entered
+20230219 16:29:37 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java81 - Login Button is clicked
+20230219 16:29:41 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java96 - Test case passed
+20230219 16:29:45 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java55 - Test Script endedTestCase5
